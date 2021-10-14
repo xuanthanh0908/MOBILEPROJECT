@@ -1,0 +1,48 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject",
+    "start-json": "json-server --watch Data/CartItem.json"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/picker": "^1.8.1",
+    "@react-navigation/bottom-tabs": "^6.0.5",
+    "@react-navigation/material-top-tabs": "^6.0.2",
+    "@react-navigation/native": "^6.0.2",
+    "@react-navigation/stack": "^6.0.7",
+    "accordion-collapse-react-native": "^1.0.1",
+    "expo": "~42.0.1",
+    "expo-status-bar": "~1.0.4",
+    "formik": "^2.2.9",
+    "intl": "^1.2.5",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-fast-image": "^8.5.8",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-label": "^0.0.1-alpha.1",
+    "react-native-lightning-modal": "^1.0.2",
+    "react-native-pager-view": "5.0.12",
+    "react-native-reanimated": "^2.2.2",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-segmented-control-tab": "^4.0.0",
+    "react-native-select-dropdown": "^1.1.0",
+    "react-native-simple-slideshow": "^1.1.0",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-tab-view": "^3.1.1",
+    "react-native-web": "~0.13.12",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
