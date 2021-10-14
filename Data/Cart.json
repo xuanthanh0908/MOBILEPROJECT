@@ -1,0 +1,24 @@
+{
+    "Cart" : [
+        {
+            "name" : "Iphone 7s plus phiên bản giới hạn",
+            "Img" : "https://hoanghamobile.com/i/preview/Uploads/2020/11/27/black.png",
+            "Price" : 699000 ,
+            "name2" : "Iphone 12s plus phiên bản giới hạn",
+            "Img2" : "https://hoanghamobile.com/i/preview/Uploads/2020/11/27/yellow.png",
+            "Price2" : 699000 ,
+            "Sold" : "Đã bán 2.5k",
+            "Sold2" : "Đã bán 3.5k"
+        },
+        {
+            "name" : "Iphone 12 mini likenew",
+            "Img" : "https://hoanghamobile.com/i/preview/Uploads/2020/11/06/apple-iphone-12-mini-3.png",
+            "Price" : 699000 ,
+            "name2" : "Iphone 12s phiên bản giới hạn",
+            "Img2" : "https://hoanghamobile.com/i/preview/Uploads/2020/11/06/apple-iphone-12-mini.png",
+            "Price2" : 699000 ,
+            "Sold" : "Đã bán 2.5k",
+            "Sold2" : "Đã bán 3.5k"
+        }
+    ]
+}
