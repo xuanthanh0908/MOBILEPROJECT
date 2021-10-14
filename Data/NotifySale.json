@@ -1,0 +1,44 @@
+{
+    "NotifySale": [
+        {
+            "id": 1,
+            "type": 2,
+            "Img" : "https://cf.shopee.vn/file/45b2d3cc2a94da2673106ee0786381c6_tn",
+            "name": "Ở đây có Siêu Voucher giảm 50%",
+            "date": "00:00 04-10-2021",
+            "detail": "⏰ Duy nhất 12H\n\n💘 Voucher giảm 50% tối đa 100K\n\n👉 Cơ hội hiếm - Đừng bỏ lỡ!"
+        },
+        {
+            "id": 2,
+            "type": 2,
+            "Img" : "https://cf.shopee.vn/file/cb3ba49b365216f09db3641ffaf54732_tn",
+            "name": "Shopee Mall có thử thách thưởng xịn",
+            "date": "07:00 03-10-2021",
+            "detail": "👉 Mỗi ngày đến 10 thương hiệu\n\n🎊 Tham gia theo dõi shop ngay\n\n⚡ Nhận liền đến 1,000 xu mỗi ngày\n\n🌀 Chần chừ chi? Tham gia đi!"
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "Img" : "https://cf.shopee.vn/file/9196fa5244971a370a52f6e6dd48f8cf_tn",
+            "name": "Cuối tuần tưng bừng mã FreeshipXtra!",
+            "date": "08:40 02-10-2021",
+            "detail": "💕 4 mã Freeship có sẵn trong ví\n\n🔥 Miễn phí vận chuyển đến 70K\n\n⚡ Voucher hoàn 20% xu\n\n☄️ Deal HOT giảm đến 50%!"
+        },
+        {
+            "id": 4,
+            "type": 2,
+            "Img" : "https://cf.shopee.vn/file/ae37c9dfe7027580c7d23a2352738bf2_tn",
+            "name": "Rần rần 6,000 deal thời trang chỉ 6K",
+            "date": "02/11/2018",
+            "detail": "🌟 Thêm 3 tầng đồng giá X9K đặc biệt\n\n⚡ Cùng loạt deal giảm đến 50% từ Top shop\n\n👜 Đa dạng phong cách cho bạn lựa chọn\n\n🎉 Lên đồ đẹp - Click vào đây!"
+        },
+        {
+            "id": 5,
+            "type": 2,
+            "Img" : "https://cf.shopee.vn/file/8ed69b9c9e649b8b12e79d06bdc3a6fb_tn",
+            "name": "Chuẩn bị ra đường, Shopee có quà cho bạn!",
+            "date": "13/11/2018",
+            "detail": "😍 Tặng bạn voucher giảm đến 30K\n\n🌈 Mua sắm hàng thời trang, làm đẹp\n\n🔔 Số lượng có hạn\n\n💥 Kiểm tra ví và mua ngay!!!"
+        }
+    ]
+}

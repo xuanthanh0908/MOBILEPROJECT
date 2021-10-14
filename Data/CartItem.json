@@ -1,0 +1,28 @@
+{
+  "CartItem": [
+    {
+      "id": 0,
+      "Name": "iPhone 6S Plus 32GB Chính Hãng",
+      "Price": 9000000,
+      "IMG": "https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/817987901.jpeg",
+      "Option": [
+        "iPhone 6S Plus vàng",
+        "iPhone 6S Plus đỏ"
+      ],
+      "Checked": false,
+      "Count": 1
+    },
+    {
+      "id": 1,
+      "Name": "Iphone 7s plus phiên bản giới hạn",
+      "Price": 7000000,
+      "IMG": "https://hoanghamobile.com/i/preview/Uploads/2020/11/27/yellow.png",
+      "Option": [
+        "Iphone 7s plus đen",
+        "Iphone 7s plus đỏ"
+      ],
+      "Checked": false,
+      "Count": 1
+    }
+  ]
+}

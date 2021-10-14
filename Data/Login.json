@@ -1,0 +1,16 @@
+{
+  "User":[
+    {
+      "id": 1,
+      "userName": "xuanthanh",
+      "Password": "123",
+      "IMG" : "https://lh3.googleusercontent.com/proxy/OcpRa7xET6N07EEyApHU0RAhOgbtG50QkC2qJIENUrnURGwmUB1aUgKDYEdDbgJTNs8fADbSOzqvardlxzVJCMCg"
+    },
+    {
+      "id": 1,
+      "userName": "dohon1311",
+      "Password": "123",
+      "IMG" : "https://speedwash.vn/upload/testimotion/10_avatar-512.png"
+    }
+  ]
+}

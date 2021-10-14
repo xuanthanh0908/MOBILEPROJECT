@@ -1,0 +1,52 @@
+{
+    "HomeNotify": [
+        {
+            "id": 1,
+            "type": 1,
+            "Img" : "https://cf.shopee.vn/file/8ed69b9c9e649b8b12e79d06bdc3a6fb_tn",
+            "name": "Nửa ngày tất cả giảm đến 50%",
+            "date": "13/11/2018",
+            "detail": "🌟 Thêm 3 tầng đồng giá X9K đặc biệt\n\n⚡ Cùng loạt deal giảm đến 50% từ Top shop\n\n👜 Đa dạng phong cách cho bạn lựa chọn\n\n🎉 Lên đồ đẹp - Click vào đây!"
+        },
+        {
+            "id": 2,
+            "type": 2,
+            "Img" : "https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/817987901.jpeg",
+            "name": "Đang vận chuyển",
+            "date": "02/11/2018",
+            "detail": "Kiện hàng với mã vận đơn \bSPXVN01484255040A\b của đơn hàng 210930KCGGGHD0  đã được Người bán Shop Online XSmart giao cho đơn vị vận chuyển qua phương thức vận chuyển Nhanh"
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "Img" : "https://cf.shopee.vn/file/8ed69b9c9e649b8b12e79d06bdc3a6fb_tn",
+            "name": "Cơ hội cuối săn voucher đến 1 triệu",
+            "date": "13/11/2018",
+            "detail": "💖 Tham gia vote sản phẩm thương hiệu \n\n✨ Cơ hội trúng voucher đến 1 triệu \n\n☄️ Cùng mua sản phẩm giá siêu ưu đãi  \n\n👉 Tham gia ngay!"
+        },
+        {
+            "id": 4,
+            "type": 2,
+            "Img" : "https://hoanghamobile.com/i/preview/Uploads/2020/11/27/yellow.png",
+            "name": "GỢI Ý QUÀ TẶNG 20.10",
+            "date": "02/11/2018",
+            "detail": "Kiện hàng với mã vận đơn \bSPXVN01484255040A\b của đơn hàng 210930KCGGGHD0  đã được Người bán Shop Online XSmart giao cho đơn vị vận chuyển qua phương thức vận chuyển Nhanh"
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "Img" : "https://cf.shopee.vn/file/8ed69b9c9e649b8b12e79d06bdc3a6fb_tn",
+            "name": "Nóng! Lộ diện loạt deal chỉ từ 1K",
+            "date": "13/11/2018",
+            "detail": "⚡ Flash sale bất ngờ từ 1K, 9K, 99K\n\n🕒 21H mở deal\n\n👉 Tức tốc vào chớp ngay!"
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "Img" : "https://alofone.vn/wp-content/uploads/2019/07/iphone-5-16gb-den.jpg",
+            "name": "Bạn có đơn hàng đang trên đường giao",
+            "date": "02/11/2018",
+            "detail": "📣Shipper bảo rằng: đơn hàng 2109110XQ3UYJ0  của bạn vẫn đang trong quá trình vận chuyển và dự kiến được giao trong 1-2 ngày tới. Vui lòng bỏ qua thông báo này nếu bạn đã nhận được hàng nhé!😊"
+        }
+    ]
+}
