@@ -9,8 +9,8 @@ import { FontAwesome } from '@expo/vector-icons';
 import { connect } from 'react-redux';
 
 const Data = require("../DATA/Data.json");
-const img_banner2 = require('../assets/banner.png');
-const img_banner = require('../assets/section_banner.png');
+const img_banner2 = require('../assets/banner.jpg');
+const img_banner = require('../assets/section_banner.jpg');
 
 const ProductItem = ({Logo,Img,Sale,left})=>(
     <View style = {[styles.SectionItem,{marginLeft : left}]}>
