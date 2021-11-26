@@ -218,7 +218,7 @@ const DetailScreeen = (props)=> {
             <TouchableOpacity style = {styles.Button} onPress = {()=>show()}>
                         <Text style = {styles.TextButton}>Mua ngay</Text>
             </TouchableOpacity>
-            <BottomModal  height={WindwoHeight-WindwoWidth + 1/10*WindwoWidth} {...modalProps}>
+            <BottomModal  height={WindwoHeight-1/2*WindwoHeight + 1/7*WindwoHeight} {...modalProps}>
                 <View style = {styles.BottomModal}>
                     <View style = {styles.SelectItem}>
                         <Image style = {{height: 80, width : 60,resizeMode : 'contain'}} source = {{uri : DetailImg}}/>
