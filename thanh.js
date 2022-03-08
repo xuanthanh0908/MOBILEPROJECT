@@ -1,6 +1,8 @@
 import React from 'react'
-import { View } from 'react-native'
+import { View, Text } from 'react-native'
 
 export function Check() {
-  ;<View></View>
+  ;<View>
+    <Text>Thanhf check</Text>
+  </View>
 }
